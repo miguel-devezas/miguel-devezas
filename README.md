@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @miguel-devezas
+- 🌱 I’m currently learning Python
