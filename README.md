@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @miguel-devezas
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java and i am a student at ISCTE
