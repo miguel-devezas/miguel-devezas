@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @miguel
+- 👋 Hi, I’m Miguel
 - 🌱 I’m currently learning Java and i am a student at ISCTE
