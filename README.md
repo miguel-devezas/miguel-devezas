@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Miguel
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Kotlin
